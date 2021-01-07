@@ -1,6 +1,6 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WilsonCazarre&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[!Wilson Cazarre's github stats](https://github-readme-stats.vercel.app/api?username=WilsonCazarre&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=glsl&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Wilson Cazarre's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WilsonCazarre&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **WilsonCazarre/WilsonCazarre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
