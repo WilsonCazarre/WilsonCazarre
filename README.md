@@ -4,6 +4,8 @@
 <br />
 [![Wilson Cazarre's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WilsonCazarre&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
+<hr />
+
 ### Tecnologies that I love to work with 💜
 
 [![React](https://img.shields.io/badge/react-61dafb?logo=react&style=for-the-badge&logoColor=black)](https://reactjs.org/)
