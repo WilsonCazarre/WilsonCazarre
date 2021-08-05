@@ -1,4 +1,4 @@
-### Tecnologies that I love to work with 💜
+### 💜
 
 [![React](https://img.shields.io/badge/react-61dafb?logo=react&style=for-the-badge&logoColor=black)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/typescript-3178c6?logo=typescript&style=for-the-badge&logoColor=white)](https://www.typescriptlang.org/)
