@@ -14,4 +14,6 @@
 
 [![Wilson Cazarre's github stats](https://github-readme-stats.vercel.app/api?username=WilsonCazarre&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 <br />
+<!--
 [![Wilson Cazarre's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WilsonCazarre&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+-->
