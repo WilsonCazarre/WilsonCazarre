@@ -9,11 +9,3 @@
 [![GraphQL](https://img.shields.io/badge/grapghql-e535ab?logo=graphql&style=for-the-badge&logoColor=white)](https://graphql.org/)
 
 <hr />
-
-### My Stats ✨
-
-[![Wilson Cazarre's github stats](https://github-readme-stats.vercel.app/api?username=WilsonCazarre&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-<!--
-[![Wilson Cazarre's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WilsonCazarre&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
--->
